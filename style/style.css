@@ -2,17 +2,17 @@
 
 @font-face {
     font-family: "NexaBold";
-    src: url('/assets/fonts/NexaBold.otf');
+    src: url('/web-final/assets/fonts/NexaBold.otf');
 }
 
 @font-face {
     font-family: "NexaRegular";
-    src: url('/assets/fonts/NexaRegular.otf');
+    src: url('/web-final/assets/fonts/NexaRegular.otf');
 }
 
 @font-face {
     font-family: "Transavicon";
-    src: url('assets/fonts/transavicon.otf');
+    src: url('/web-final/assets/fonts/transavicon.otf');
 }
 
 /*Font styling*/
