@@ -1,6 +1,5 @@
     var button = document.querySelector("#filter-button");
     var story = document.getElementById("verhaal");
-    var leeslijst = document.querySelector(".leeslijst")
 
     //Functies
 
@@ -24,7 +23,6 @@
 
     //Alle event listeners
 
-    leeslijst.addEventListener("click", replaceImage);
     button.addEventListener("click", showFilter);
     story.addEventListener("mouseover", shadowOver);
     story.addEventListener("mouseout", shadowOut);
