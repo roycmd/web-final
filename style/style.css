@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: "NexaBold";
-    src: url('assets/fonts/NexaBold.otf');
+    src: url('/assets/fonts/NexaBold.otf');
 }
 
 @font-face {
     font-family: "NexaRegular";
-    src: url('assets/fonts/NexaRegular.otf');
+    src: url('/assets/fonts/NexaRegular.otf');
 }
 
 @font-face {
