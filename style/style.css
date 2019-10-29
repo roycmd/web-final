@@ -2,17 +2,17 @@
 
 @font-face {
     font-family: "NexaBold";
-    src: url(../assets/fonts/NexaBold.otf);
+    src: url(assets/fonts/NexaBold.otf);
 }
 
 @font-face {
     font-family: "NexaRegular";
-    src: url(../assets/fonts/NexaRegular.otf);
+    src: url(assets/fonts/NexaRegular.otf);
 }
 
 @font-face {
     font-family: "Transavicon";
-    src: url(../assets/fonts/transavicon.otf);
+    src: url(assets/fonts/transavicon.otf);
 }
 
 /*Font styling*/
@@ -89,7 +89,7 @@ header nav a {
 }
 
 .header-logo img {
-    content: url(/assets/transavia-logo-mobiel.png);
+    content: url(assets/transavia-logo-mobiel.png);
 }
 
 /* De scrollbar voor de verhalenpagina's */
@@ -141,7 +141,7 @@ input[type=email]:valid {
 
 .landing-login {
     display: grid;
-    background-image: url("/assets/background.png");
+    background-image: url("assets/background.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -164,7 +164,7 @@ body {
 
 .landing {
     display: grid;
-    background-image: url("/assets/background.png");
+    background-image: url("assets/background.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -348,7 +348,7 @@ label {
 @media only screen and (min-device-width: 41em) {
 
     .header-logo img {
-        content: url(/assets/transavia-logo.png);
+        content: url(assets/transavia-logo.png);
     }
 
     .searchbox {
@@ -363,15 +363,15 @@ label {
     }
 
     .boers {
-        content: url(/assets/verhaal/tablet-boers.jpg);
+        content: url(assets/verhaal/tablet-boers.jpg);
     }
 
     .jezus {
-        content: url(/assets/verhaal/tablet-boers.jpg);
+        content: url(assets/verhaal/tablet-boers.jpg);
     }
 
     .recept {
-        content: url(/assets/verhaal/tablet-recept.jpg);
+        content: url(assets/verhaal/tablet-recept.jpg);
     }
 }
 
@@ -380,7 +380,7 @@ label {
 @media only screen and (min-device-width: 61em) {
 
     .header-logo img {
-        content: url(/assets/transavia-logo.png);
+        content: url(assets/transavia-logo.png);
     }
 
     /*Grid Pagina indeling*/
@@ -416,13 +416,13 @@ label {
     }
 
     .boers {
-        content: url(/assets/verhaal/desktop-boers.jpg);
+        content: url(assets/verhaal/desktop-boers.jpg);
     }
     .jezus {
-        content: url(/assets/verhaal/jezus-desktop.jpg);
+        content: url(assets/verhaal/jezus-desktop.jpg);
     }
     .recept {
-        content: url(/assets/verhaal/desktop-recept.jpg);
+        content: url(assets/verhaal/desktop-recept.jpg);
     }
 
     #filter-button {
